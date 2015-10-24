@@ -1,7 +1,7 @@
 {
   "name": "route-hook",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lifecycle hook management for routers",
   "license": "MIT",
   "repository": "bendrucker/route-hook",
