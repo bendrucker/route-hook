@@ -1,0 +1,32 @@
+{
+  "name": "route-hook",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Lifecycle hook management for routers",
+  "license": "MIT",
+  "repository": "bendrucker/route-hook",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "router",
+    "lifecycle",
+    "hook",
+    "async"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "async-ear": "~1.0.0"
+  }
+}
