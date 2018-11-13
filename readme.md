@@ -1,4 +1,4 @@
-# route-hook [![Build Status](https://travis-ci.org/bendrucker/route-hook.svg?branch=master)](https://travis-ci.org/bendrucker/route-hook)
+# route-hook [![Build Status](https://travis-ci.org/bendrucker/route-hook.svg?branch=master)](https://travis-ci.org/bendrucker/route-hook) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/route-hook.svg)](https://greenkeeper.io/)
 
 > Lifecycle hook management for routers
 
